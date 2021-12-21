@@ -1,8 +1,5 @@
 # WebhookProcessor
 
-**TODO: Rode as depedencias com `mix deps.get`**
+##Rode as depedencias com `mix deps.get`
 
-
-
-
-
+### Logo após, rode `iex -S mix` 
